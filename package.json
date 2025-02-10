@@ -4,7 +4,7 @@
   "description": "This is namaste by Dipak",
   "scripts": {
     "start": "parcel namaste.html",
-    "build": "parcle namaste.html",
+    "build": "parcel namaste.html",
     "test": "jest",
     "watch-test" : "jest --watch" 
   },
